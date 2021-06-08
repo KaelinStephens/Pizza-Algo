@@ -11,3 +11,5 @@ Step 10: cook pizza in oven until done (about 12 minutes)
 Step 11: remove cooked pizza from oven
 Step 12: place cooked pizza on heat-safe serving dish
 Step 13: cut pizza into 8 even slices
+Step 14: garnish pizza if necessary
+Step 15: serve pizza to hungry guests
