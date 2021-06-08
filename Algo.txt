@@ -1,3 +1,5 @@
+Customer's Steps to Follow
+
 Step 1: decide you want food
 Step 2: don't want to cook
 Step 3: decide on pizza
@@ -11,6 +13,8 @@ Step 10: greet delivery driver
 Step 11: take pizza from driver
 Step 12: eat pizza
 Step 13: enjoy
+
+Store's Steps to Follow
 
 Step 1: make the dough
 Step 2: make the pizza sauce
